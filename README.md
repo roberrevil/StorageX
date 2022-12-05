@@ -5,3 +5,4 @@
     </ul>
 </div>
 <img width="612" alt="storagex_home" src="https://user-images.githubusercontent.com/119845903/205633948-536a0f47-f34e-43ef-af37-10e3fd160afb.png">
+![storagex](https://user-images.githubusercontent.com/119845903/205635465-b966416a-fd89-476c-bac6-310947c31bda.png)
